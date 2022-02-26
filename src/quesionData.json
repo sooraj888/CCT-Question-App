@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "addition of 1 and 2",
+    "answer": "3",
+    "questionOption": [""],
+    "option": [""]
+  },
+  {
+    "id": 2,
+    "question": "addition of 2 and 2",
+    "answer": "4",
+    "option": ["5", "2", "8", "4"],
+    "questionOption": [""]
+  },
+  {
+    "id": 3,
+    "question": "value of pie ",
+    "answer": ["22/7", "3.142"],
+    "option": ["22/7", "7", "3.142", "4.1"],
+    "questionOption": [""]
+  },
+  {
+    "id": 4,
+    "question": "3 is greater than 2",
+    "answer": "yes",
+    "option": ["yes", "no"],
+    "questionOption": [""]
+  },
+  {
+    "id": 5,
+    "question": "Match the following",
+    "questionOption": ["2+4 =", "3-1 =", "8/2 =", "4*2 ="],
+    "answer": ["6", "2", "4", "8"],
+    "option": ["8", "6", "2", "4"]
+  }
+]

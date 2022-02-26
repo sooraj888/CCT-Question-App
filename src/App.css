@@ -1,0 +1,22 @@
+.headding {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.qusion {
+  padding-top: 50px;
+}
+.s {
+  padding-top: 20px;
+}
+.center {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.mathTheFollowing > span {
+  display: inline-block;
+  width: 200px;
+}
